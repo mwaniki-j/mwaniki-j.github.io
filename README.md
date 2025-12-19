@@ -1,4 +1,4 @@
 # mwaniki-j.github.io
-This is my personal website
+This is my personal website.
 Welcome!
-Last update:December 2025
+Last update:December 2025.
